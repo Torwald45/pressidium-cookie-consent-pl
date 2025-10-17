@@ -1,0 +1,13 @@
+# IDE
+.vscode/
+*.sublime-project
+*.sublime-workspace
+
+# Temporary files
+*~
+*.swp
+*.swo
+*.bak
+
+# macOS
+.DS_Store
